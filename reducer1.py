@@ -1,4 +1,3 @@
-
 import sys
 
 salesTotal = 0
